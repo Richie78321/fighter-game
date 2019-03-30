@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>G:/Fighter/Game/MonoGame Template/Content/GUI/Fighter_Game_Main_Menu.mp3</SourceFile>
+  <SourceTime>2018-08-29T10:35:07.8752695-04:00</SourceTime>
+  <DestFile>G:/Fighter/Game/MonoGame Template/Content/bin/Windows/GUI/Fighter_Game_Main_Menu.xnb</DestFile>
+  <DestTime>2018-08-29T10:36:52.7943866-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-12-20T11:37:41.3289666-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-12-20T11:37:41.3289666-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>G:/Fighter/Game/MonoGame Template/Content/bin/Windows/GUI/Fighter_Game_Main_Menu.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

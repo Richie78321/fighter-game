@@ -1,0 +1,25 @@
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\MonoGame Template.exe
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\MonoGame Template.pdb
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\obj\x86\Debug\MonoGame Template.csprojResolveAssemblyReference.cache
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\obj\x86\Debug\MonoGame Template.exe
+C:\Users\rgoul\Desktop\MonoGame Toolkit\MonoGame Template\MonoGame Template\obj\x86\Debug\MonoGame Template.pdb
+D:\Fighter\Game\MonoGame Template\obj\x86\Debug\MonoGame Template.exe
+D:\Fighter\Game\MonoGame Template\obj\x86\Debug\MonoGame Template.pdb

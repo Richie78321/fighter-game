@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>G:/Fighter/Game/MonoGame Template/Content/GUI/Button/buttonFont.spritefont</SourceFile>
+  <SourceTime>2018-07-25T12:26:27.7456932-04:00</SourceTime>
+  <DestFile>G:/Fighter/Game/MonoGame Template/Content/bin/Windows/GUI/Button/buttonFont.xnb</DestFile>
+  <DestTime>2018-08-15T22:19:29.9199527-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-12-20T11:37:41.3289666-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-12-20T11:37:41.3289666-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

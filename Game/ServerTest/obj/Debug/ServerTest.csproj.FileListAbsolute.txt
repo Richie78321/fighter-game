@@ -1,0 +1,7 @@
+G:\Fighter\Game\ServerTest\bin\Debug\ServerTest.exe.config
+G:\Fighter\Game\ServerTest\bin\Debug\ServerTest.exe
+G:\Fighter\Game\ServerTest\bin\Debug\ServerTest.pdb
+G:\Fighter\Game\ServerTest\obj\Debug\ServerTest.csprojResolveAssemblyReference.cache
+G:\Fighter\Game\ServerTest\obj\Debug\ServerTest.csproj.CoreCompileInputs.cache
+G:\Fighter\Game\ServerTest\obj\Debug\ServerTest.exe
+G:\Fighter\Game\ServerTest\obj\Debug\ServerTest.pdb

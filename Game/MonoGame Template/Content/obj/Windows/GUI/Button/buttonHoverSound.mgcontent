@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>G:/Fighter/Game/MonoGame Template/Content/GUI/Button/buttonHoverSound.wav</SourceFile>
+  <SourceTime>2017-08-11T22:12:07.3050664-04:00</SourceTime>
+  <DestFile>G:/Fighter/Game/MonoGame Template/Content/bin/Windows/GUI/Button/buttonHoverSound.xnb</DestFile>
+  <DestTime>2018-08-15T22:18:51.3719504-04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-12-20T11:37:41.3289666-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-12-20T11:37:41.3289666-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
